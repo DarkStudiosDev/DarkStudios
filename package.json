@@ -1,9 +1,9 @@
 {
     "name": "DarkStudios",
     "productname": "Dark Studios",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "sub_version": "",
-    "changelog": "Esta es la primera versión del launcher",
+    "changelog": "Actualización de la base y cambio de icono",
     "description": "Dark Studios Launcher",
     "main": "src/app.js",
     "author": {
