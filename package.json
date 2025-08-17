@@ -1,9 +1,9 @@
 {
     "name": "DarkStudios",
     "productname": "Dark Studios",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "sub_version": "",
-    "changelog": "Actualización de la base y cambio de icono",
+    "changelog": "Migrada la librería de ejecución y mejoras en la ejecución del juego",
     "description": "Dark Studios Launcher",
     "main": "src/app.js",
     "author": {
@@ -37,7 +37,7 @@
         "express": "^4.19.2",
         "html2canvas": "^1.4.1",
         "marked": "^14.1.2",
-        "minecraft-launcher-core": "^3.18.2",
+        "miguelkinetworkmclauncher-core": "^1.0.3",
         "msmc": "^5.0.5",
         "node-fetch": "^2.7.0",
         "node-machine-id": "^1.0.0",
