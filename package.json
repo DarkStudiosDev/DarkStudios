@@ -1,9 +1,9 @@
 {
     "name": "DarkStudios",
     "productname": "Dark Studios",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "sub_version": "",
-    "changelog": "Migrada la librería de ejecución y mejoras en la ejecución del juego",
+    "changelog": "Mejoras en el sistema de descarga de java",
     "description": "Dark Studios Launcher",
     "main": "src/app.js",
     "author": {
